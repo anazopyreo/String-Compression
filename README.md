@@ -1,5 +1,5 @@
 # ChallengeURL
-[LeetCode - String Compression](https://leetcode.com/problems/string-compression/submissions/1161486435/?envType=study-plan-v2&envId=leetcode-75)
+[LeetCode - String Compression]([https://leetcode.com/problems/string-compression/submissions/1161486435/?envType=study-plan-v2&envId=leetcode-75](https://leetcode.com/problems/string-compression/description/?envType=study-plan-v2&envId=leetcode-75)
 
 ## Problem
 Given an array of characters chars, compress it using the following algorithm:
